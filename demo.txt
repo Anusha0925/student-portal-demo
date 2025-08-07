@@ -1,0 +1,6 @@
+## Features
+* Student profile management
+* Course enrollment and tracking
+* Grade tracking and reporting
+* Communication tools for students and faculty
+*
